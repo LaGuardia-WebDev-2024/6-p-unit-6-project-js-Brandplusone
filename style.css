@@ -1,18 +1,18 @@
-body {
-  background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/11/chill-guy-background.jpg");
+body {  
+  
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
 }
-
+  
 html{
   height: 100%;
   width: 100%;
 }
 
-#myCanvas {
+#myCanvas {background-image:radial-gradient(grey,green);
   border-radius: 30px;
   border: 15px double #8bbcbbff;
 }
@@ -44,3 +44,5 @@ h2{
 #end{
   text-align: right;
 }
+
+{background-image:radial-background(grey,green);
